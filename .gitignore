@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+.env
+
+# IDE / editor folders
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# Optional: if you add Docker
+# *.env.override
