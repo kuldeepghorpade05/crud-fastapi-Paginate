@@ -37,3 +37,6 @@ Asynchronous support via AnyIO and Starlette.
 Environment management using python-dotenv.
 
 Development tools like Black for code formatting, isort for import sorting, and Click for CLI utilities.
+
+<!-- cmd  -->
+poetry run uvicorn app.main:app --reload --host 0.0.0.0 --port 8000
